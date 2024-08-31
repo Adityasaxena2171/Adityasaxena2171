@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Aditya Saxena</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" height = "300" src="https://t4.ftcdn.net/jpg/07/51/11/83/360_F_751118385_9A1NoDwHdGPc74vd6MQpzrBHdIsRyHPq.jpg">
